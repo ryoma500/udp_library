@@ -1,6 +1,6 @@
 # UDP Library
 
-Windows（WinSock2）向けのシンプルなUDP送受信ラッパーライブラリです。
+Windows（WinSock2）向けのシンプルなUDP送受信ライブラリです。
 送信・受信・コールバック処理を最小APIで扱えるように設計されています。
 
 ---
